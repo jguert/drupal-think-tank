@@ -11,3 +11,5 @@ core = "7.x"
 project = "ga_tokenizer"
 datestamp = "1303421515"
 
+;Project is outdated
+
